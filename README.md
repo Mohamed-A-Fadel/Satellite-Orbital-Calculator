@@ -27,11 +27,11 @@ The script was successfully used to calculate the parameters for prominent Egypt
 | :--- | :--- | :--- | :--- | :--- |
 | **Nilesat 301** | Communications (GEO) | 35,786.03 | 3.0747 | 23 56 4.1 |
 | **TIBA-1** | Broadband Comms (GEO) | 35,786.03 | 3.0747 | 23 56 4.1 |
-| **EgyptSat-A** | Remote Sensing (LEO) | 650 | 7.5309 | 1 37 43.8 |
-| **MisrSat-2** | Agriculture/Env (LEO) | 600 | 7.5579 | 1 36 41.3 |
-| **Horus-1** | High-Res Imaging (LEO) | 500 | 7.6127 | 1 34 37.2 |
-| **NEXSAT-1** | Experimental (LEO) | 470 | 7.6293 | 1 34 0.2 |
-| **NARSSCube-1**| CubeSat (LEO) | 400 | 7.6686 | 1 32 34.1 |
+| **EgyptSat-A** | Remote Sensing (LEO) | 650 | 7.5309 | 1 37 43.7 |
+| **MisrSat-2** | Agriculture/Env (LEO) | 600 | 7.5579 | 1 36 41.2 |
+| **Horus-1** | High-Res Imaging (LEO) | 500 | 7.6127 | 1 34 37 |
+| **NEXSAT-1** | Experimental (LEO) | 470 | 7.6293 | 1 33 59.9 |
+| **NARSSCube-1**| CubeSat (LEO) | 400 | 7.6686 | 1 32 33.6 |
 
 ---
 *Developed by Mohamed Ahmed Fadel - ECE for Satellite Communications Course assignment.*
