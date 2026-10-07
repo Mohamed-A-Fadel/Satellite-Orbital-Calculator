@@ -34,4 +34,4 @@ The script was successfully used to calculate the parameters for prominent Egypt
 | **NARSSCube-1**| CubeSat (LEO) | 400 | 7.6686 | 1 32 34.1 |
 
 ---
-*Developed by Fadel - ECE for Satellite Communications Course assignment.*
+*Developed by Mohamed Ahmed Fadel - ECE for Satellite Communications Course assignment.*
